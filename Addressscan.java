@@ -17,6 +17,7 @@ public class Addressscan {
         System.out.println("What is your Father Age : ");
         int fatherage = scan.nextInt();
         
+        
 
         System.out.println("\n");
         System.out.printf("Your Good Name Is %s\n",name);
